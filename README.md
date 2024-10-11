@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hola 👋, I'm Sukrit Deb</h1>
 <h3 align="center">A simple guy who loves to explore new stuffs</h3>
-<img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukritdeb&label=Profile%20views&color=0e75b6&style=flat" alt="sukritdeb" /> </p>
 
