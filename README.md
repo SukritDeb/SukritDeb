@@ -2,7 +2,6 @@
 <h1 align="center">Hola 👋, I'm Sukrit Deb</h1>
 <h3 align="center">A simple guy who loves to explore new stuffs</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukritdeb&label=Profile%20views&color=0e75b6&style=flat" alt="sukritdeb" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
