@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukritdeb&label=Profile%20views&color=0e75b6&style=flat" alt="sukritdeb" /> </p>
 
-- 🌱 An **explorer ^-^**
+- 🌱 An **explorer ^_^**
 
 - 📫 How to reach me **debsukrit00@gmail.com**
 
