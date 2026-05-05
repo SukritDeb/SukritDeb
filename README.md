@@ -10,14 +10,18 @@
 
 [![An image of @sukritdeb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukritdeb)](https://holopin.io/@sukritdeb)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/sukrit_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukrit_deb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sukrit deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukrit deb" height="30" width="40" /></a>
-<a href="https://fb.com/sukrit deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sukrit deb" height="30" width="40" /></a>
-<a href="https://instagram.com/krit_xd007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krit_xd007" height="30" width="40" /></a>
-<a href="https://www.behance.net/sukrit deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sukrit deb" height="30" width="40" /></a>
-</p>
+<h1 align="start">Connect with me:</h1>
+<div align="left">
+  <a href="https://x.com/sukrit_deb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="60" alt="sukrit_deb" /></a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/sukrit deb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" alt="sukrit deb" /></a>
+  <img width="12" />
+  <a href="https://fb.com/sukrit deb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="60" alt="sukrit deb" /></a>
+  <img width="12" />
+  <a href="https://instagram.com/krit_xd007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="60" alt="krit_xd007" /></a>
+  <img width="12" />
+  <a href="https://www.behance.net/sukrit deb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="60" alt="sukrit deb" /></a>
+</div>
 <h1 align="start">Languages and Tools:</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo" />
