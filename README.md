@@ -90,8 +90,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="scikit_learn logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="seaborn logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="60" alt="streamlit logo" />
